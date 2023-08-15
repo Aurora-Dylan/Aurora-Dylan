@@ -1,6 +1,15 @@
 ### Hi there 👋
 
-[经济学人等外刊](https://github.com/hehonghui/awesome-english-ebooks)
+> Read List
+| Name | Links | :heavy_check_mark: or :x: |
+| ---- | ---- | ---- |
+| 经济学人等 | [经济学人等外刊](https://github.com/hehonghui/awesome-english-ebooks) |  []  |
+|  |  |  []  |
+
+
+
+
+
 <!--
 **Aurora-Dylan/Aurora-Dylan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
