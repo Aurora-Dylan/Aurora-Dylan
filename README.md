@@ -3,8 +3,8 @@
 ### Read List
 | Name | Links | :heavy_check_mark: or :x: |
 | ---- | ---- | ---- |
-| 经济学人等 | [经济学人等外刊](https://github.com/hehonghui/awesome-english-ebooks) |  [x]  |
-|  |  |  []  |
+| 经济学人等 | [经济学人等外刊](https://github.com/hehonghui/awesome-english-ebooks) |  :x:  |
+
 
 
 
